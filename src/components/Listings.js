@@ -354,6 +354,1002 @@ export default function Listings() {
             </Card.Body>
           </Card>
         </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col>
+          <Card border='light' className='p-5'>
+            <Swiper
+              pagination={{
+                dynamicBullets: true,
+              }}
+              modules={[Pagination]}
+              className='mySwiper'
+            >
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+              <SwiperSlide>
+                <Card.Img
+                  variant='top'
+                  src='images/generator.jpg'
+                  className='item-img rounded'
+                  alt='A comfortable coworking space'
+                />
+              </SwiperSlide>
+            </Swiper>
+            <Card.Body>
+              <Card.Title>Card title</Card.Title>
+              <Card.Text>
+                Relaxing in Rio? Take some downtime at the Generator Hub.
+              </Card.Text>
+              <Button variant='success'>Book</Button>
+            </Card.Body>
+          </Card>
+        </Col>
       </Row>
     </Container>
   )
