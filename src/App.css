@@ -82,9 +82,10 @@ button {
 }
 
 .chatbox-bg {
-  /* position: fixed;
+  position: fixed;
   bottom: 130px;
-  right: 50vw; */
+  /* right: 50vw; */
+  margin: 0 auto;
   width: 100px;
   height: 50px;
   /* border-radius: 25px; */

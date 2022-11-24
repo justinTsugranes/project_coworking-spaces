@@ -8,9 +8,9 @@ import MapBox from './MapBox'
 const Footer = () => {
   return (
     <Container fluid className='fixed-bottom bg-light text-center p-0'>
-      <Row className='d-flex justify-content-center pb-4'>
-        <MapBox />
-      </Row>
+      {/* <Row className='pb-4'> */}
+      <MapBox />
+      {/* </Row> */}
       <Row className='footer-icons fs-3 border-top pt-2 pb-4 text-muted'>
         <Col>
           <HiMagnifyingGlass />
