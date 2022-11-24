@@ -13,7 +13,7 @@ import { Pagination } from 'swiper'
 export default function Listings() {
   return (
     <Container fluid className='mt-5 pt-5'>
-      <Row xs={1} md={2} lg={3} xl={4} className='g-4'>
+      <Row xs={1} md={2} lg={3} xl={4} className='g-2'>
         <Col>
           <Card border='light' className='p-5'>
             <Swiper
